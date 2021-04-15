@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "google_speech",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "audio_file_example",
+            "cwd": "example/audio_file_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "mic_stream_example",
+            "cwd": "example/mic_stream_example",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
